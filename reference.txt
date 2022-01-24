@@ -1,0 +1,10 @@
+https://codesachin.wordpress.com/2015/11/28/self-organizing-maps-with-googles-tensorflow/
+
+https://github.com/rafalpotempa/kohonen-network
+
+https://untitledtblog.tistory.com/5
+
+https://medium.com/kirey-group/self-organizing-maps-with-fast-ai-step-3-updating-som-hyperparameters-with-fast-ai-callbacks-a640a55cec0a
+
+
+https://towardsdatascience.com/kohonen-self-organizing-maps-a29040d688da
